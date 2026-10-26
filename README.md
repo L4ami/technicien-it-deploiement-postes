@@ -1,6 +1,6 @@
 # Épreuve Technicien IT — déploiement et interconnexion de postes de travail
 
-Rendu complet de l'épreuve pratique du module IT Essentials, réalisée en une journée (08h30 – 16h30) dans le cadre du Bachelor en informatique du **Geneva Institute of Technology**.
+Rendu complet de l'épreuve pratique du module IT Essentials, réalisée en une journée (08h30 – 16h30) au **Geneva Institute of Technology**, dans le cadre de ma formation : CFC d’informaticien + Bachelor en double certification.
 
 **Auteur :** Paul Giocanti · **Date :** 11.09.2026
 
